@@ -1,0 +1,53 @@
+{
+    "success": true,
+    "rows": [
+     
+     {
+      "datetime": 1604314353388,
+      "id": "0.65",
+      "value": "28.65",
+      "chiller_category": "Outboard Bearing Temp",
+      "nm": "JK3-CHILLER_1-Outboard Bearing Temp"
+     },
+     
+     {
+      "datetime": 1604314354838,
+      "id": "0.65",
+      "value": "52.12",
+      "chiller_category": "Outboard Bearing Temp",
+      "nm": "JK3-CHILLER_2-Outboard Bearing Temp"
+     },
+    
+     {
+      "datetime": 1604314356252,
+      "id": "0.65",
+      "value": "28.55",
+      "chiller_category": "Outboard Bearing Temp",
+      "nm": "JK3-CHILLER_3-Outboard Bearing Temp"
+     },
+     
+     {
+      "datetime": 1604314357716,
+      "id": "0.65",
+      "value": "28.58",
+      "chiller_category": "Outboard Bearing Temp",
+      "nm": "JK3-CHILLER_4-Outboard Bearing Temp"
+     },
+    
+     {
+      "datetime": 1604314358641,
+      "id": "0.65",
+      "value": "28.53",
+      "chiller_category": "Outboard Bearing Temp",
+      "nm": "JK3-CHILLER_5-Outboard Bearing Temp"
+     },
+    
+     {
+      "datetime": 1604314360056,
+      "id": "0.65",
+      "value": "28.43",
+      "chiller_category": "Outboard Bearing Temp",
+      "nm": "JK3-CHILLER_6-Outboard Bearing Temp"
+     }
+    ]
+   }

@@ -1,0 +1,53 @@
+{
+    "success": true,
+    "rows": [
+     
+     {
+      "datetime": 1604314353016,
+      "id": "0.29",
+      "value": "-0.2838429",
+      "chiller_category": "Differential Refrigerant Pressure",
+      "nm": "JK3-CHILLER_1-Differential Refrigerant Pressure"
+     },
+    
+     {
+      "datetime": 1604314354009,
+      "id": "0.29",
+      "value": "12.435982",
+      "chiller_category": "Differential Refrigerant Pressure",
+      "nm": "JK3-CHILLER_2-Differential Refrigerant Pressure"
+     },
+    
+     {
+      "datetime": 1604314355609,
+      "id": "0.29",
+      "value": "0.17687912",
+      "chiller_category": "Differential Refrigerant Pressure",
+      "nm": "JK3-CHILLER_3-Differential Refrigerant Pressure"
+     },
+     
+     {
+      "datetime": 1604314356817,
+      "id": "0.29",
+      "value": "-0.32373822",
+      "chiller_category": "Differential Refrigerant Pressure",
+      "nm": "JK3-CHILLER_4-Differential Refrigerant Pressure"
+     },
+    
+     {
+      "datetime": 1604314358283,
+      "id": "0.29",
+      "value": "-2.4616604",
+      "chiller_category": "Differential Refrigerant Pressure",
+      "nm": "JK3-CHILLER_5-Differential Refrigerant Pressure"
+     },
+    
+     {
+      "datetime": 1604314359251,
+      "id": "0.29",
+      "value": "-2.2173142",
+      "chiller_category": "Differential Refrigerant Pressure",
+      "nm": "JK3-CHILLER_6-Differential Refrigerant Pressure"
+     }
+    ]
+   }

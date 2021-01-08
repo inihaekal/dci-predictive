@@ -1,0 +1,53 @@
+{
+    "success": true,
+    "rows": [
+     
+     {
+      "datetime": 1604314353126,
+      "id": "0.71",
+      "value": "0.0",
+      "chiller_category": "AFD Average Input Current",
+      "nm": "JK3-CHILLER_1-AFD Average Input Current"
+     },
+    
+     {
+      "datetime": 1604314354301,
+      "id": "0.71",
+      "value": "284.7",
+      "chiller_category": "AFD Average Input Current",
+      "nm": "JK3-CHILLER_2-AFD Average Input Current"
+     },
+     
+     {
+      "datetime": 1604314355880,
+      "id": "0.71",
+      "value": "0.0",
+      "chiller_category": "AFD Average Input Current",
+      "nm": "JK3-CHILLER_3-AFD Average Input Current"
+     },
+    
+     {
+      "datetime": 1604314357099,
+      "id": "0.71",
+      "value": "0.0",
+      "chiller_category": "AFD Average Input Current",
+      "nm": "JK3-CHILLER_4-AFD Average Input Current"
+     },
+    
+     {
+      "datetime": 1604314358378,
+      "id": "0.71",
+      "value": "0.0",
+      "chiller_category": "AFD Average Input Current",
+      "nm": "JK3-CHILLER_5-AFD Average Input Current"
+     },
+    
+     {
+      "datetime": 1604314359534,
+      "id": "0.71",
+      "value": "0.0",
+      "chiller_category": "AFD Average Input Current",
+      "nm": "JK3-CHILLER_6-AFD Average Input Current"
+     }
+    ]
+   }

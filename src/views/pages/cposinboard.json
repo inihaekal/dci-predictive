@@ -1,0 +1,54 @@
+{
+    "success": true,
+    "rows": [
+    
+     {
+      "datetime": 1604314353522,
+      "id": "0.64",
+      "value": "28.39",
+      "chiller_category": "Inboard Bearing Temp",
+      "nm": "JK3-CHILLER_1-Inboard Bearing Temp"
+     },
+    
+     {
+      "datetime": 1604314355101,
+      "id": "0.64",
+      "value": "57.69",
+      "chiller_category": "Inboard Bearing Temp",
+      "nm": "JK3-CHILLER_2-Inboard Bearing Temp"
+     },
+
+     
+     {
+      "datetime": 1604314356385,
+      "id": "0.64",
+      "value": "28.34",
+      "chiller_category": "Inboard Bearing Temp",
+      "nm": "JK3-CHILLER_3-Inboard Bearing Temp"
+     },
+    
+     {
+      "datetime": 1604314357845,
+      "id": "0.64",
+      "value": "28.66",
+      "chiller_category": "Inboard Bearing Temp",
+      "nm": "JK3-CHILLER_4-Inboard Bearing Temp"
+     },
+    
+     {
+      "datetime": 1604314358749,
+      "id": "0.64",
+      "value": "28.56",
+      "chiller_category": "Inboard Bearing Temp",
+      "nm": "JK3-CHILLER_5-Inboard Bearing Temp"
+     },
+    
+     {
+      "datetime": 1604314360288,
+      "id": "0.64",
+      "value": "28.56",
+      "chiller_category": "Inboard Bearing Temp",
+      "nm": "JK3-CHILLER_6-Inboard Bearing Temp"
+     }
+    ]
+   }

@@ -1,0 +1,221 @@
+{
+  "success": true,
+  "rows": [
+    {
+      "datetime": "1601007669",
+      "value": "7.9",
+      "ahu_category": "Unit_Static_Pressure",
+      "nm": "JK3-AHU-1-D-Z01"
+    },
+    {
+      "datetime": "1601007699",
+      "value": "0.6",
+      "ahu_category": "Unit_Static_Pressure",
+      "nm": "JK3-AHU-1-D-Z02"
+    },
+    {
+      "datetime": "1600976413",
+      "value": "Unavailable",
+      "ahu_category": "Unit_Static_Pressure",
+      "nm": "JK3-AHU-1-D-Z03"
+    },
+    {
+      "datetime": "1600979329",
+      "value": "Unavailable",
+      "ahu_category": "Unit_Static_Pressure",
+      "nm": "JK3-AHU-1-D-Z04"
+    },
+    {
+      "datetime": "1600979389",
+      "value": "Unavailable",
+      "ahu_category": "Unit_Static_Pressure",
+      "nm": "JK3-AHU-1-D-Z05"
+    },
+    {
+      "datetime": "1600979510",
+      "value": "Unavailable",
+      "ahu_category": "Unit_Static_Pressure",
+      "nm": "JK3-AHU-1-D-Z06"
+    },
+    {
+      "datetime": "1600979575",
+      "value": "Unavailable",
+      "ahu_category": "Unit_Static_Pressure",
+      "nm": "JK3-AHU-1-D-Z07"
+    },
+    {
+      "datetime": "1600979630",
+      "value": "Unavailable",
+      "ahu_category": "Unit_Static_Pressure",
+      "nm": "JK3-AHU-1-D-Z08"
+    },
+    {
+      "datetime": "1601007709",
+      "value": "7.8",
+      "ahu_category": "Unit_Static_Pressure",
+      "nm": "JK3-AHU-1-D-Z09"
+    },
+    {
+      "datetime": "1601007704",
+      "value": "8.3",
+      "ahu_category": "Unit_Static_Pressure",
+      "nm": "JK3-AHU-2-D-Z01"
+    },
+    {
+      "datetime": "1601007284",
+      "value": "1.5",
+      "ahu_category": "Unit_Static_Pressure",
+      "nm": "JK3-AHU-2-D-Z02"
+    },
+    {
+      "datetime": "1601004063",
+      "value": "0.9",
+      "ahu_category": "Unit_Static_Pressure",
+      "nm": "JK3-AHU-2-D-Z03"
+    },
+    {
+      "datetime": "1601007689",
+      "value": "0.7",
+      "ahu_category": "Unit_Static_Pressure",
+      "nm": "JK3-AHU-2-D-Z04"
+    },
+    {
+      "datetime": "1601007354",
+      "value": "Unavailable",
+      "ahu_category": "Unit_Static_Pressure",
+      "nm": "JK3-AHU-2-D-Z05"
+    },
+    {
+      "datetime": "1601007709",
+      "value": "0.7",
+      "ahu_category": "Unit_Static_Pressure",
+      "nm": "JK3-AHU-2-D-Z07"
+    },
+    {
+      "datetime": "1601007524",
+      "value": "Unavailable",
+      "ahu_category": "Unit_Static_Pressure",
+      "nm": "JK3-AHU-2-D-Z08"
+    },
+    {
+      "datetime": "1601007704",
+      "value": "10.4",
+      "ahu_category": "Unit_Static_Pressure",
+      "nm": "JK3-AHU-2-D-Z09"
+    },
+    {
+      "datetime": "1600921666",
+      "value": "Unavailable",
+      "ahu_category": "Unit_Static_Pressure",
+      "nm": "JK3-AHU-2-D-Z06"
+    },
+    {
+      "datetime": "1601007709",
+      "value": "11.6",
+      "ahu_category": "Unit_Static_Pressure",
+      "nm": "JK3-AHU-4-D-Z02"
+    },
+    {
+      "datetime": "1601007689",
+      "value": "2.3",
+      "ahu_category": "Unit_Static_Pressure",
+      "nm": "JK3-AHU-4-D-Z03"
+    },
+    {
+      "datetime": "1601007699",
+      "value": "2.2",
+      "ahu_category": "Unit_Static_Pressure",
+      "nm": "JK3-AHU-4-D-Z04"
+    },
+    {
+      "datetime": "1601007714",
+      "value": "2.1",
+      "ahu_category": "Unit_Static_Pressure",
+      "nm": "JK3-AHU-4-D-Z05"
+    },
+    {
+      "datetime": "1601007684",
+      "value": "2.6",
+      "ahu_category": "Unit_Static_Pressure",
+      "nm": "JK3-AHU-4-D-Z06"
+    },
+    {
+      "datetime": "1601007604",
+      "value": "2.9",
+      "ahu_category": "Unit_Static_Pressure",
+      "nm": "JK3-AHU-4-D-Z07"
+    },
+    {
+      "datetime": "1601007709",
+      "value": "15.0",
+      "ahu_category": "Unit_Static_Pressure",
+      "nm": "JK3-AHU-4-D-Z08"
+    },
+    {
+      "datetime": "1601007679",
+      "value": "17.8",
+      "ahu_category": "Unit_Static_Pressure",
+      "nm": "JK3-AHU-4-D-Z09"
+    },
+    {
+      "datetime": "1601007699",
+      "value": "13.7",
+      "ahu_category": "Unit_Static_Pressure",
+      "nm": "JK3-AHU-4-D-Z10"
+    },
+    {
+      "datetime": "1600932450",
+      "value": "Unavailable",
+      "ahu_category": "Unit_Static_Pressure",
+      "nm": "JK3-CRAH-M-A-Z01"
+    },
+    {
+      "datetime": "1600932540",
+      "value": "Unavailable",
+      "ahu_category": "Unit_Static_Pressure",
+      "nm": "JK3-CRAH-M-A-Z02"
+    },
+    {
+      "datetime": "1600932645",
+      "value": "Unavailable",
+      "ahu_category": "Unit_Static_Pressure",
+      "nm": "JK3-CRAH-M-A-Z03"
+    },
+    {
+      "datetime": "1600932780",
+      "value": "Unavailable",
+      "ahu_category": "Unit_Static_Pressure",
+      "nm": "JK3-CRAH-M-A-Z05"
+    },
+    {
+      "datetime": "1600934926",
+      "value": "Unavailable",
+      "ahu_category": "Unit_Static_Pressure",
+      "nm": "JK3-CRAH-M-B-Z01"
+    },
+    {
+      "datetime": "1600935061",
+      "value": "Unavailable",
+      "ahu_category": "Unit_Static_Pressure",
+      "nm": "JK3-CRAH-M-B-Z02"
+    },
+    {
+      "datetime": "1600935171",
+      "value": "Unavailable",
+      "ahu_category": "Unit_Static_Pressure",
+      "nm": "JK3-CRAH-M-B-Z03"
+    },
+    {
+      "datetime": "1600935271",
+      "value": "Unavailable",
+      "ahu_category": "Unit_Static_Pressure",
+      "nm": "JK3-CRAH-M-B-Z05"
+    },
+    {
+      "datetime": "1600935346",
+      "value": "Unavailable",
+      "ahu_category": "Unit_Static_Pressure",
+      "nm": "JK3-CRAH-M-B-Z06"
+    }
+  ]
+}

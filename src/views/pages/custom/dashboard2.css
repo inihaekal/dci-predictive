@@ -1,0 +1,9 @@
+[dir] .nav.nav-tabs .nav-item .nav-link.active {
+    border: none;
+    background-color: #398ec600;
+    transform: translateY(-2px);
+}
+
+[dir=ltr] .nav.nav-tabs {
+    box-shadow: -1px 11px 17px -10px rgba(255, 255, 255, 0.04);
+}

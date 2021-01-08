@@ -1,0 +1,52 @@
+{
+    "success": true,
+    "rows": [
+     {
+      "datetime": 1604314352895,
+      "id": "0.33",
+      "value": "59.96",
+      "chiller_category": "Oil Tank Temperature",
+      "nm": "JK3-CHILLER_1-Oil Tank Temperature"
+     },
+    
+     {
+      "datetime": 1604314353758,
+      "id": "0.33",
+      "value": "52.25",
+      "chiller_category": "Oil Tank Temperature",
+      "nm": "JK3-CHILLER_2-Oil Tank Temperature"
+     },
+     
+     {
+      "datetime": 1604314355345,
+      "id": "0.33",
+      "value": "60.03",
+      "chiller_category": "Oil Tank Temperature",
+      "nm": "JK3-CHILLER_3-Oil Tank Temperature"
+     },
+     
+     {
+      "datetime": 1604314356555,
+      "id": "0.33",
+      "value": "61.69",
+      "chiller_category": "Oil Tank Temperature",
+      "nm": "JK3-CHILLER_4-Oil Tank Temperature"
+     },
+     
+     {
+      "datetime": 1604314358082,
+      "id": "0.33",
+      "value": "61.74",
+      "chiller_category": "Oil Tank Temperature",
+      "nm": "JK3-CHILLER_5-Oil Tank Temperature"
+     },
+   
+     {
+      "datetime": 1604314358978,
+      "id": "0.33",
+      "value": "61.69",
+      "chiller_category": "Oil Tank Temperature",
+      "nm": "JK3-CHILLER_6-Oil Tank Temperature"
+     }
+    ]
+   }

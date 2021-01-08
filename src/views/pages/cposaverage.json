@@ -1,0 +1,59 @@
+{
+    "success": true,
+    "rows": [
+    
+
+     {
+      "datetime": 1604314353235,
+      "id": "0.57",
+      "value": "0.0",
+      "chiller_category": "Average Motor Current",
+      "nm": "JK3-CHILLER_1-Average Motor Current"
+     },
+    
+
+     {
+      "datetime": 1604314354559,
+      "id": "0.57",
+      "value": "292.0",
+      "chiller_category": "Average Motor Current",
+      "nm": "JK3-CHILLER_2-Average Motor Current"
+     },
+     
+
+     {
+      "datetime": 1604314356142,
+      "id": "0.57",
+      "value": "0.0",
+      "chiller_category": "Average Motor Current",
+      "nm": "JK3-CHILLER_3-Average Motor Current"
+     },
+
+     {
+      "datetime": 1604314357507,
+      "id": "0.57",
+      "value": "0.0",
+      "chiller_category": "Average Motor Current",
+      "nm": "JK3-CHILLER_4-Average Motor Current"
+     },
+     
+
+     {
+      "datetime": 1604314358501,
+      "id": "0.57",
+      "value": "0.0",
+      "chiller_category": "Average Motor Current",
+      "nm": "JK3-CHILLER_5-Average Motor Current"
+     },
+     
+
+     {
+      "datetime": 1604314359788,
+      "id": "0.57",
+      "value": "0.0",
+      "chiller_category": "Average Motor Current",
+      "nm": "JK3-CHILLER_6-Average Motor Current"
+     }
+    
+    ]
+   }
